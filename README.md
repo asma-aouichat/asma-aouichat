@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Asma Aouichat
 
-<!--
-**asma-aouichat/asma-aouichat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD researcher in Artificial Intelligence specializing in:
 
-Here are some ideas to get you started:
+- Arabic NLP
+- Question Answering Systems
+- Machine Learning
+- Deep Learning
+- Transformer Models
+- Educational Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+Python • PyTorch • TensorFlow • HuggingFace • FastAPI • C# • Java • PHP • MySQL
+
+## Current Research
+
+Hybrid Arabic Question Classification using SVM + CNN architectures.
