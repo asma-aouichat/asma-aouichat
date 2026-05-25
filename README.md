@@ -15,4 +15,3 @@ Python • PyTorch • TensorFlow • HuggingFace • FastAPI • C# • Java �
 
 ## Current Research
 
-Hybrid Arabic Question Classification using SVM + CNN architectures.
